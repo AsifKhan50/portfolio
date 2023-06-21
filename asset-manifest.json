@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3615e06b.css",
+    "main.js": "/portfolio/static/js/main.29bab8a6.js",
+    "static/js/787.71dfd024.chunk.js": "/portfolio/static/js/787.71dfd024.chunk.js",
+    "static/media/MOHAMMED ASIF KHAN CV.pdf": "/portfolio/static/media/MOHAMMED ASIF KHAN CV.76c19aa7285fefe09fcf.pdf",
+    "static/media/Pic.png": "/portfolio/static/media/Pic.941e8c00117633527b30.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.f458e0b383e75488d00c.png",
+    "index.html": "/portfolio/index.html",
+    "main.3615e06b.css.map": "/portfolio/static/css/main.3615e06b.css.map",
+    "main.29bab8a6.js.map": "/portfolio/static/js/main.29bab8a6.js.map",
+    "787.71dfd024.chunk.js.map": "/portfolio/static/js/787.71dfd024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3615e06b.css",
+    "static/js/main.29bab8a6.js"
+  ]
+}
